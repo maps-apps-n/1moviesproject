@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="settings_string">Settings</string>
+    <string name="movie_info_title">MovieInfo</string>
+
+    <string name="sortby_option">Select Sorting Order</string>
+    <string name="sortby_key">sortOrder</string>
+    <string name="pop_movies_option">Most Popular</string>
+    <string name="top_movies_option">Highest Ratings</string>
+
+
+</resources>
+
